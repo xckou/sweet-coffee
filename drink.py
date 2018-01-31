@@ -3,3 +3,5 @@ class Drink:
 		self.size = size
 	def coffee(self):
 		pass
+	def okk(self):
+		return "hhh"
